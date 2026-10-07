@@ -1,0 +1,4 @@
+node_modules/
+.next/
+.env*.local
+design/colour-options/shots/
